@@ -1,0 +1,84 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		},
+		{
+			"path": "pages/classify/index",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		},
+		{
+			"path": "pages/shopCart/index",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		},
+		{
+			"path": "pages/mine/login",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		},
+		{
+			"path": "pages/mine/register",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		},
+		{
+			"path": "pages/good/detail",
+			"style": {
+				"app-plus": {"titleNView": false}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#AFCEA4",
+		"selectedColor": "#2B9939",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/home/index",
+				"iconPath": "static/images/tabbar/shouye.png",
+				"selectedIconPath": "static/images/tabbar/shouye-active.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/classify/index",
+				"iconPath": "static/images/tabbar/fenlei.png",
+				"selectedIconPath": "static/images/tabbar/fenlei-active.png",
+				"text": "分类"
+			},
+			{
+				"pagePath": "pages/shopCart/index",
+				"iconPath": "static/images/tabbar/gouwuche.png",
+				"selectedIconPath": "static/images/tabbar/gouwuche-active.png",
+				"text": "购物车"
+			},
+			{
+				"pagePath": "pages/mine/index",
+				"iconPath": "static/images/tabbar/wode.png",
+				"selectedIconPath": "static/images/tabbar/wode-active.png",
+				"text": "我的"
+			}
+		]
+	}
+}

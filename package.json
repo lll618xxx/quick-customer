@@ -1,0 +1,16 @@
+{
+  "name": "quick-customer",
+  "version": "1.0.0",
+  "description": "速客优鲜",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cd server && npm i && cd ../app && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/niuxiang/quick-customer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
