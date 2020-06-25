@@ -5,17 +5,17 @@
 速客优鲜，一个完整的前后端 JS 栈项目，前端基于 uni-app 实现，后端基于 express 实现
 
 <div>
-<img src="show/1.png" alt="项目截图" width="218" height="385">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusg743/8f8f8232-0687-4308-b480-03f5a2054185_w328_h578.png" alt="项目截图" width="218" height="385">
 &nbsp;
-<img src="show/2.png" alt="项目截图" width="218" height="385">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusgiqr/83bc9b72-4291-4ca9-88d0-89669e5d4020_w326_h577.png" alt="项目截图" width="218" height="385">
 &nbsp;
-<img src="show/3.png" alt="项目截图" width="218" height="385">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusgo30/50d9c73a-c100-4927-9611-b32e66a43ecf_w325_h578.png" alt="项目截图" width="218" height="385">
 &nbsp;
-<img src="show/4.png" alt="项目截图" width="218" height="385">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbusgtyb/9344e6fe-eb0e-460f-aaca-d85749321ba6_w326_h580.png" alt="项目截图" width="218" height="385">
 &nbsp;
-<img src="show/5.png" alt="项目截图" width="218" height="385">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbush07r/a18f3112-b155-42cf-b47f-5afc7dd34a81_w328_h580.png" alt="项目截图" width="218" height="385">
 &nbsp;
-<img src="show/6.png" alt="项目截图" width="218" height="385">
+<img src="https://gw.alipayobjects.com/os/q/cms/images/kbush5ee/7ba81de6-103d-42b2-ba53-b230e06b69ac_w323_h577.png" alt="项目截图" width="218" height="385">
 </div>
 
 ### 安装
